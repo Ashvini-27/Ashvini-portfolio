@@ -24,7 +24,7 @@ A sleek, modern, and responsive personal portfolio website built to showcase my 
 ## 📬 Connect with Me
 * **Email**: ashvini27kumar@gmail.com
 * **LinkedIn**: [linkedin.com/in/ashvini-kumar27](https://linkedin.com/in/ashvini-kumar27)
-* **GitHub**: [@ashvini](https://github.com/ashvini)
+* **GitHub**: [@ashvini](https://github.com/Ashvini-27)
 * **Instagram**: [@ashviiniii_](https://www.instagram.com/ashviiniii_?igsh=ZDMxbnVxY2NlYms3)
 
 ---
