@@ -1,31 +1,59 @@
-# Ashvini Kumar | Personal Portfolio 🚀
+# Ashvini Portfolio
 
-A sleek, modern, and responsive personal portfolio website built to showcase my web development projects, technical skills, and achievements. Designed with a custom dark theme and a vibrant Glassmorphism UI.
+A personal portfolio website designed to showcase my technical skills, projects, and experience as a Full Stack Developer. The website provides an overview of my work, highlights featured projects, and includes my resume and contact information.
 
-## 🌐 Live Demo
-https://ashvini-dev.vercel.app/
+## Features
 
-## 🛠️ Tech Stack Built With
-* **HTML5**: Semantic and accessible structure.
-* **CSS3**: Custom properties, Flexbox, CSS Grid, and advanced backdrop-filters for the frosted glass effect.
-* **Vanilla JavaScript**: DOM manipulation, smooth scrolling, and dynamic active-link highlighting.
+- Responsive and modern user interface
+- About Me section
+- Technical Skills
+- Featured Projects
+- Resume download
+- Contact section
 
-## ✨ Key Features
-* **Modern UI/UX**: Deep dark aesthetic paired with floating gradient backgrounds and semi-transparent glass panels.
-* **Fully Responsive**: Adapts perfectly to mobile, tablet, and desktop screens.
-* **Interactive Elements**: Hover overlays on project images, clickable certificate cards, and animated skill progress bars.
-* **Optimized Navigation**: Sticky header with scroll-spy functionality that highlights the current section.
+## Tech Stack
 
-## 💻 Featured Projects included
-* **IRON CORE Fitness**: A high-performance web application utilizing RESTful APIs for workout data and BMI tracking.
-* **BagCheck Dashboard**: A responsive expense tracker featuring dual data filtering and Chart.js visualization.
-* **FoodieHub**: A smart recipe recommendation app with dynamic UI logic and ingredient-based filtering.
+- HTML5
+- CSS3
+- JavaScript
 
-## 📬 Connect with Me
-* **Email**: ashvini27kumar@gmail.com
-* **LinkedIn**: [linkedin.com/in/ashvini-kumar27](https://linkedin.com/in/ashvini-kumar27)
-* **GitHub**: [@ashvini](https://github.com/Ashvini-27)
-* **Instagram**: [@ashviiniii_](https://www.instagram.com/ashviiniii_?igsh=ZDMxbnVxY2NlYms3)
+## Featured Projects
+
+- **PrepMate** – AI-powered interview preparation platform
+- **IronCore** – Gym website
+- **Foddie** – Food ordering website
+- **Deloitte Virtual Experience**
+- Additional academic and personal projects
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ashvini-27/ashvini-portfolio.git
+```
+
+Open `index.html` in your preferred web browser.
+
+## Repository Structure
+
+```
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+├── images/
+└── README.md
+```
+
+## Contact
+
+**Ashvini Kumar**
+
+- GitHub: https://github.com/Ashvini-27
+- LinkedIn: *Add your LinkedIn profile*
+- Email: *Add your email address*
 
 ---
-*Designed and developed by Ashvini Kumar.*
+
+If you found this project useful, consider giving it a ⭐.
